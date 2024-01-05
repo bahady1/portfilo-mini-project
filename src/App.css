@@ -381,6 +381,7 @@ h3{
 
 .portfolio--section--img >img {
     width: 100%;
+    height: auto; 
 }
 
 .portfolio--section--card{
