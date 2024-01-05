@@ -1,0 +1,82 @@
+{
+    "Skills": [
+        {
+            "id": "1",
+            "src": "./img/product-chain-1.png",
+            "title": "Front-End",
+            "description": "Passionate about creating responsive and user-friendly interfaces using cutting-edge front-end technologies."
+        },
+        {
+            "id": "2",
+            "src": "./img/tag-1.png",
+            "title": "Back-End",
+            "description": "Experienced in developing scalable and efficient back-end solutions with a focus on performance and security."
+        },
+        {
+            "id": "3",
+            "src": "./img/feather-pen-2.png",
+            "title": "UI & UX Design",
+            "description": "Dedicated to crafting visually stunning and intuitive user experiences, combining creativity with usability best practices."
+        },
+        {
+            "id": "4",
+            "src": "./img/feather-pen-1.png",
+            "title": "Webflow Developer",
+            "description": "Skilled in creating dynamic and responsive websites using Webflow, ensuring a seamless and engaging user experience."
+        }
+    ],
+    "portfilio": [
+        {
+            "id": "1",
+            "src": "./img/placeholder-image.png",
+            "title": "Ahuse",
+            "description": "A web application designed to streamline and simplify home management tasks, providing a seamless experience for users.",
+            "link": "https://www.Ahuse.com",
+            "technologies_used": "React.js, Node.js, Express and MongoDB"
+        },
+        {
+            "id": "2",
+            "src": "./img/placeholder-image-1.png",
+            "title": "App Dashboard",
+            "description": "An interactive dashboard that presents key metrics and insights, offering users a comprehensive view of their data.",
+            "link": "https://Databox.com",
+            "technologies_used": "Angular, D3.js and Firebase"
+        },
+        {
+            "id": "3",
+            "src": "./img/placeholder-image-2.png",
+            "title": "Easy Renth",
+            "description": "A rental management platform designed to simplify the process of finding and managing rental properties, enhancing the user experience.",
+            "link": "https://www.rent-easy.eu/",
+            "technologies_used": "Vue.js, Firebase and Bootstrap"
+    
+        }
+    ],
+    "testimonial": [
+        {
+            "id": "1",
+            "count": "5",
+            "src": "./img/avatar-image.png",
+            "description": "Working with them was a breeze! Their attention to detail and commitment to quality made our project a great success.",
+            "author_name": "John Anderson",
+            "author_designation": "Tech Innovations"
+        },
+        {
+            "id": "2",
+            "count": "5",
+            "src": "./img/avatar-image-1.png",
+            "description": "An exceptional talent in the field. Their problem-solving skills and creativity exceeded our expectations.",
+            "author_name": "Emily Rodriguez",
+            "author_designation": "Creative Solutions Co."
+        },
+        {
+            "id": "3",
+            "count": "5",
+            "src": "./img/avatar-image-2.png",
+            "description": "A true professional with a keen eye for detail. Their work has significantly improved our online presence.",
+            "author_name": "Michael Turner",
+            "author_designation": "Global Marketing Agency"
+        }
+    ]
+    
+}
