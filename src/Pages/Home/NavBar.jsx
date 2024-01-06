@@ -77,7 +77,7 @@ function Navbar() {
                         smooth= {true}
                         offset={-70}
                         duration={500}
-                        to="Testimonials"
+                        to="Testimonial"
                         className="navbar--content">
                             Testimonials
                         </Link>
