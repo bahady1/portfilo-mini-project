@@ -31,7 +31,7 @@ function Navbar() {
     return (
         <nav className="navbar">
             <div>
-                <img src="./img/logo.svg" alt="Logoipsum" />
+                <img src="./img/logo.svg" alt="Logo" />
             </div>
             
             <div className="navbar--items">
